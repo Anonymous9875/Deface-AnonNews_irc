@@ -26,7 +26,7 @@ banner = """
 
                                                                                            
       Coded By :AnonNews_irc
-      Github   :-www.github.com/Anonymous9875
+      TELEGRAM :https://t.me/addlist/iZfJw-LVfYthNzYx
  
 
  """
